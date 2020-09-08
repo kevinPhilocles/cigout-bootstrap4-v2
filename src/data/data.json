@@ -1,0 +1,152 @@
+{
+    "Header": {
+
+        "title": "We are here Cigout",
+        "paragraph": "Cigout est une application qui contrôle l'état de votre e-cigarette ainsi votre consommation en temps réel, une IA est présente pour assister et vous guider. Un accompagnement quotidien pour connaitre et mieux comprendre l'utilisation de votre e-cigarette"
+
+    },
+    "Features": [{
+            "icon": "fa fa-check-square-o fa-2",
+            "title": "Simple",
+            "text": "Cigout est Plug & Play, le module peut être parametré facilement depuis l'application."
+        },
+        {
+            "icon": "fa fa-bar-chart fa-2",
+            "title": "Maîtrise optimale",
+            "text": "Cigout vous permet de contrôler votre utilisation, afin de reprendre en main votre consommation."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Social",
+            "text": "Essayez notre service de mentors, et prenez contact avec un professionel de la santé. La communauté Cigout est aussi prête à vous conseillée."
+        },
+        {
+            "icon": "fa fa-tachometer fa-2",
+            "title": "Précis",
+            "text": "Chaque parcours et chaque statistique est propre à l'utilisateur, ce qui lui permet de bénéficier d'une experience unique."
+        }
+    ],
+    "About": {
+        "paragraph": "Ce projet à débuté avec 12 développeurs motivés, dans le cadre de nos études, et a vu jour dans le campus Epitech Paris. Ce projet, plein d'ambition apporte une réel solution pour tout les amateurs de e-cigarette, et les fumeurs traditionnel qui ne trouve pas de moyen d'etre accompagné dans leur consommation, avec Cigout votre succès est désormais mesurable a l'aide de nos statistiques, et notre librairie intelligente < VictoryJs /> qui propose une expérence unique à chaque utilisateur.",
+        "Why": [
+            "Un parcours adapté à votre besoin",
+            "Une IA spécialisé et des tabacologues a votre écoute",
+            "Statistiques en temps réel basé sur votre consommation",
+            "Des coachs sur mesure"
+        ],
+        "Why2": [
+            "Une équipe dynamique",
+            "Correctifs et améliorations hebdomadaire",
+            "De nombreuses fonctionnalités à venir",
+            "Un support technique efficace"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-trophy fa-2",
+            "name": "Ludique",
+            "text": "Progresser seul c'est bien, mais à deux on va plus loin, l'enjeu et les récompenses en CigPoints sont doublées en parrainage !"
+        },
+        {
+            "icon": "fa fa-cloud-download fa-2",
+            "name": "Central",
+            "text": "Accessible depuis la platforme Web ou l'application mobile, visualisé sa consommation partout n'a jamais été aussi simple."
+        },
+        {
+            "icon": "fa fa-user-secret fa-2",
+            "name": "Securité",
+            "text": "Vos données personelles le resteront grâce à notre hébergement chiffré, sécurisé et constamment mis à jour."
+        },
+        {
+            "icon": "fa fa-wifi",
+            "name": "Contrôle a distance",
+            "text": "Vous souhaitez changé votre voltage ? Crée des modes de consommation ? Rien de plus simple l'integralité de Cigout est paramétrable."
+        },
+        {
+            "icon": "fa fa-pie-chart fa-2",
+            "name": "Contrôle d'objectifs",
+            "text": "La gestion de vos objectifs disponible en quelques clics vous permettront de réduire et d'analyser en un instantané votre utilisation."
+        },
+        {
+            "icon": "fa fa-money fa-2",
+            "name": "CigPoint",
+            "text": "Débloquer des CigPoints, en renplissant vos objectifs fixés par les coachs et les défis journaliers. Cette monnaie vous donne accès a une personnalisation plus poussé de l'application."
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "Le module Cigout convient parfaitement à la résolution que j'ai entreprise cette année, l'arrêt de la cigarette.",
+            "name": "Frédéric Vercelli"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "J'ai été séduit par Cigout car l'interface me permet d'avoir un véritable contrôle sur ma consomation.",
+            "name": "Mathieu Clerc"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "J’ai tout essayé, patchs, inhalateurs, mais rien à faire, l’envie de fumer me regagnais à chaque tentative d’arrêt. Avec Cigout je vais pouvoir être accompagné et voir mes résultats sur mon smartphone.",
+            "name": "Nicholas Fresse"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "J'ai commencé à fumer dès l'adolescence. L'invention de la cigarette électronique a changé ma vie et désormais je peux la jumelé avec une application pour voir mes stats, ça m'encourage dans ma démarche malgré la difficulté !",
+            "name": "Olivia Smith"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "J'étais très pessimiste sur son efficacité, il s'avère qu'au quotidien je ne me rendais plus compte de mon vapotage.",
+            "name": "Johnathan Brousse"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "Que du plaisir ! Plus d'odeurs, plus de poitrine encombrée, plus de mauvais goût en boûche, plus le coeur qui s'emballe au moindre effort... La liste est longue des avantages de passer à la e-cigarette.",
+            "name": "Albertine Riela"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Théo Despre",
+            "job": "Conception Prototype"
+        },
+        {
+            "img": "img/team/alex-m-zographos.jpg",
+            "name": "Alex M-Zographos",
+            "job": "Développeur Back-end"
+        },
+        {
+            "img": "img/team/julien-arnault.jpg",
+            "name": "Julien Arnault",
+            "job": "Senior Director | Project Manager"
+        },
+        {
+            "img": "img/team/nina.delcroix.jpg",
+            "name": "Nina Delcroix",
+            "job": "Développeuse Application Mobile"
+        },
+        {
+            "img": "img/team/arthur-loriot.jpg",
+            "name": "Arthur Loriot",
+            "job": "Développeur Web"
+        },
+        {
+            "img": "img/team/guillaume-pereda.jpg",
+            "name": "Guillaume Pereda",
+            "job": "Conception Prototype"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Anthony Hor",
+            "job": "Développeur Back-end"
+        }
+    ],
+    "Contact": {
+        "address": "24 Rue Pasteur, Le Kremlin-Bicêtre, 94270 ",
+        "phone": "+336 09 33 26 77",
+        "email": "help.cigout@gmail.com",
+        "facebook": "https://www.facebook.com/pages/category/E-Cigarette-Store/Cigout-105197997979590/",
+        "twitter": "https://twitter.com/Cigout1",
+        "apk": "https://cigout-backend.herokuapp.com/download"
+    }
+    
+}
