@@ -5,8 +5,10 @@ export class features extends Component {
     return (
       <div id="features" className="text-center">
         <div className="container">
-          <div className="col-md-10 col-md-offset-1 section-title">
-            <h2>Fonctionnalités</h2>
+          <div className="row justify-content-center">
+            <div className="col-md-10 section-title">
+              <h2>Fonctionnalités</h2>
+            </div>
           </div>
           <div className="row">
             {this.props.data
